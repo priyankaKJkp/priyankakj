@@ -1,0 +1,7 @@
+n,k=map(int,input().split())
+for n in range(n,k):
+    if n%2==1:
+        print(n,end=" ")
+        
+        
+  
