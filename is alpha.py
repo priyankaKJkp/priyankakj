@@ -1,7 +1,7 @@
-s=input()
-if s.isalpha():
+k=input()
+if k.isalpha():
     print("Alphabest")
-elif s.isnumeric():
+elif k.isnumeric():
     print("Number")
 else:
     print("Special char")
